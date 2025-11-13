@@ -1,1 +1,1 @@
-Status: Basic
+Status: Trial
