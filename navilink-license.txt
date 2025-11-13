@@ -1,1 +1,1 @@
-Status: Premium
+Status: Basic
