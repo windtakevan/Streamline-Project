@@ -1,1 +1,1 @@
-Status: Full
+Status: Deactivated
